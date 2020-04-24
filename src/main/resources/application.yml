@@ -1,0 +1,11 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    password: 38250bb..
+    url: jdbc:mysql://localhost:3306/springboot
+
+  jpa:
+    show-sql: true  # 控制台显示sql语句
+    hibernate:
+      ddl-auto: update  #  更新或创建表结构
