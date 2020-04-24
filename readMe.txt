@@ -39,4 +39,4 @@
                         2、无参构造函数
 
 
-https://github.com/Be-ready/springboot.git
+https://github.com/Be-ready/springboot2_JPA.git
